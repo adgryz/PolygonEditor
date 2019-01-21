@@ -1,0 +1,17 @@
+﻿<Window x:Class="PolygonEditor.InputDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PolygonEditor"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="InputDialog" Height="74" Width="160">
+    <StackPanel>
+        <TextBlock Text="Enter edge length" Height="20"/>
+        <TextBox x:Name="LengthValue" Height="20" />
+        <Button Content="OK" Click="Button_Click" />
+    </StackPanel>
+</Window>

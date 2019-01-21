@@ -1,0 +1,33 @@
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Release\PolygonEditor.exe.config
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Release\PolygonEditor.exe
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Release\PolygonEditor.pdb
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\MainWindow.g.cs
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\App.g.cs
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor_MarkupCompile.cache
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor_MarkupCompile.lref
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\MainWindow.baml
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.g.resources
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.Properties.Resources.resources
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.csproj.GenerateResource.Cache
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.csproj.CoreCompileInputs.cache
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.exe
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.pdb
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\PolygonEditor.csprojResolveAssemblyReference.cache
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\InputDialog.g.cs
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Release\InputDialog.baml
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\bin\Release\PolygonEditor.exe.config
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\bin\Release\PolygonEditor.exe
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\bin\Release\PolygonEditor.pdb
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\InputDialog.g.cs
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\MainWindow.g.cs
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\App.g.cs
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor_MarkupCompile.cache
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor_MarkupCompile.lref
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\InputDialog.baml
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\MainWindow.baml
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.g.resources
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.Properties.Resources.resources
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.exe
+C:\Users\Adam\Desktop\Grafika Komputerowa\1\Gyrz Adam\Wersja po labach\PolygonEditor\obj\Release\PolygonEditor.pdb

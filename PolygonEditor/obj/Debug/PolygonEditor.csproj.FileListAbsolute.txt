@@ -1,0 +1,34 @@
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe.config
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.pdb
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csprojResolveAssemblyReference.cache
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\MainWindow.g.cs
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\App.g.cs
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.cache
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.lref
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\MainWindow.baml
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.g.resources
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.Properties.Resources.resources
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.GenerateResource.Cache
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.exe
+C:\Users\BB8\documents\visual studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.pdb
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.CoreCompileInputs.cache
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\InputDialog.g.cs
+C:\Users\BB8\Documents\Visual Studio 2017\Projects\PolygonEditor\PolygonEditor\obj\Debug\InputDialog.baml
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe.config
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.exe
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\bin\Debug\PolygonEditor.pdb
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\InputDialog.g.cs
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\MainWindow.g.cs
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\App.g.cs
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.cache
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor_MarkupCompile.lref
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\InputDialog.baml
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\MainWindow.baml
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.g.resources
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.Properties.Resources.resources
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.GenerateResource.Cache
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.exe
+h:\Windows7\Desktop\PolygonEditor\PolygonEditor\obj\Debug\PolygonEditor.pdb

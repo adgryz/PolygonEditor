@@ -1,0 +1,47 @@
+Instrukcja obs³ugi :
+(LMB - lewy przycisk myszy, RMB - prawy przycisk myszy)
+
+
+Klawiszologia
+------------------------------------------------------------------------------------------------------
+[Wierzcho³ki]
+Dodanie wierzcho³ka - LMB w wolny obszar
+Usuniêcie wierzcho³ka - RMB w wierzcho³ek otwiera menu contextowe
+Dodanie wierzcho³ka na œrodku krawêdzi - LMB w krêdŸ
+Przesuniêcie wierzcho³ka - przytrzymanie i poruszanie LMB na wierzcho³ku
+
+[Krawêdzie]
+Dodanie wiêzu - RMB w krawêdŸ
+Dodanie wiêzu d³ugoœci - dodatkowo otwiera okienko dialogowe, w którym mo¿na podaæ d³ugoœæ
+
+[Wielok¹t]
+Przesuniêcie ca³ego wielok¹ta - LMB + LShift w "bounding box" wielok¹t (przytrzymanie obu klawiszy i poruszanie mysz¹)
+
+
+Za³o¿enia i opis algorytmu "relacji"
+------------------------------------------------------------------------------------------------------
+Wiêz poziomy - ustawienie wspó³rzêdnej Y drugiego wierzcho³ka na tak¹ sam¹ jak pierwszego (v2.Y = v1.Y)
+Wiêz pionowy - ustawienie wspó³rzêdnej X drugiego wierzcho³ka na tak¹ sam¹ jak pierwszego (v2.X = v1.X)
+Wiêz d³ugoœci - skorzystanie z twierdzenia Talesa, krawêdŸ zachowuje swój kierunek, zmienia d³ugoœæ
+		v2.X = v1.X + ( L2 / L1 ) * (v2.X -v1.X)
+		v2.Y = v1.Y + ( L2 / L1 ) * (v2.Y -v1.Y)
+		(L1 - akutalna d³ugoœæ krawêdzi, L2 - d³ugoœæ krawêdzi nadana w wiêzie)
+
+
+Naprawianie wiêzów przy dodawaniu nowych wiêzów  :
+	1. Startujemy z krawêdzi nastêpuj¹cej po krawêdzi do której dodano wiêz
+	2. Sprawdzamy czy jej wiêz jest spe³niony
+		2.1. Jeœli tak to koñczymy algorytm
+		2.2. Jeœli nie to :
+			2.2.1 Spe³niamy jej wiêz
+			2.2.2 Sprawdzamy czy spe³niony jest warunek integralnoœci (*)
+			2.2.3 Jeœli nie to koñczymy dzia³anie i przywaracamy wielok¹t do poprzedniego stanu
+			2.2.4 Jeœli tak, to wykonujemy krok 2 dla kolejnej krawêdzi
+
+(*) Warunek integralnoœci wielok¹tu :
+	Wiêz mo¿na dodaæ do wielok¹ta jeœli ¿adna jego krawêdŸ nie bêdzie d³u¿sza ni¿ suma d³ugoœci pozosta³ych.
+	Wynika to z tego, ¿e ka¿da krawêd¿ ma max 1 wiêz i wiêzy to : d³ugoœci, pionowy i poziomy.
+
+Naprawianie wiêzów przy poruszaniu wierzcho³kiem :
+	Trzeba rozró¿niaæ który wierzcho³ek krawêdzi z nadanym wiêzem jest poruszany, poniewa¿ wymaga to
+	innej implementacji wype³nienia wiêzu. Implementacja jak przy nadawaniu nowych wiêzów, tyle, ¿e wielokrotna. 
